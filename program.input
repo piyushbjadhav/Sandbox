@@ -1,1 +1,2 @@
-__
+import os
+f = os.open("program.input", 'r')
